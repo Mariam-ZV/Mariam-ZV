@@ -19,7 +19,7 @@ Focused on:
 
 ## Current Project
 
-**Retail Sales Data Analysis**
+**Retail Sales Data Analysis Project**
 
 End-to-end data preparation project involving:
 
