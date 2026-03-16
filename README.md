@@ -1,16 +1,43 @@
-## Hi there 👋
+# Mariam Zamanvaziri
 
-<!--
-**Mariam-ZV/Mariam-ZV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst based in the UK.
 
-Here are some ideas to get you started:
+Currently building projects in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Excel  
+• SQL  
+• Tableau  
+
+Focused on:
+
+• Data cleaning  
+• Data modelling  
+• Data transformation  
+• Analytical reporting  
+
+---
+
+## Current Project
+
+**Retail Sales Data Analysis**
+
+End-to-end data preparation project involving:
+
+- Cleaning and transforming raw datasets
+- Building lookup tables and fact tables
+- Creating relationships between datasets
+- Preparing structured data for reporting and dashboards
+
+Tools used:
+
+Excel  
+Power Query  
+Data Modelling
+
+---
+
+## Portfolio
+
+Main repository:
+
+data-analytics-portfolio
