@@ -1,43 +1,49 @@
 # Mariam Zamanvaziri
 
-Junior Data Analyst based in the UK.
+Junior Data Analyst focused on turning messy data into clear, decision-ready insights.
 
-Currently building projects in:
-
-• Excel  
-• SQL  
-• Tableau  
-
-Focused on:
-
-• Data cleaning  
-• Data modelling  
-• Data transformation  
-• Analytical reporting  
+I specialise in cleaning, structuring, and analysing raw data to uncover meaningful patterns and support better decision-making.
 
 ---
 
-## Current Project
-
-**Retail Sales Data Analysis Project**
-
-End-to-end data preparation project involving:
-
-- Cleaning and transforming raw datasets
-- Building lookup tables and fact tables
-- Creating relationships between datasets
-- Preparing structured data for reporting and dashboards
-
-Tools used:
-
-Excel  
-Power Query  
-Data Modelling
+## 🛠 Tools
+Excel • SQL • Tableau
 
 ---
 
-## Portfolio
+## 🧠 Focus Areas
+- Data cleaning  
+- Data modelling  
+- Data transformation  
+- Analytical reporting  
 
-Main repository:
+---
 
-data-analytics-portfolio
+## 🚀 Current Project
+
+### Retail Sales Data Analysis (Contoso Dataset)
+
+End-to-end data analysis project focused on transforming raw retail data into structured, analysis-ready datasets.
+
+Key work includes:
+- Cleaning and transforming raw datasets using Power Query  
+- Building lookup and fact tables  
+- Creating a structured data model (star schema)  
+- Developing DAX measures for business analysis  
+- Preparing data for reporting and dashboards  
+
+**Tools used:**  
+Excel • Power Query • Power Pivot • DAX  
+
+---
+
+## 📊 Portfolio
+
+Main repository:  
+👉 https://github.com/Mariam-ZV/data-analytics-portfolio
+
+---
+
+## 🎯 Goal
+
+Currently building a strong portfolio to transition into a full-time data analyst role.
