@@ -28,13 +28,13 @@ Excel • SQL • Power BI
 End-to-end data analysis project transforming raw retail data into structured, analysis-ready datasets.
 
 **Key work:**
-- Cleaned and transformed raw datasets using Power Query  
-- Built lookup and fact tables  
-- Developed a structured data model (star schema)  
-- Created DAX measures for business analysis  
-- Prepared data for reporting and dashboards  
+- Cleaned and transformed raw datasets using Power Query    
+- Built dimension and fact tables    
+- Designed a structured data model (star / multi-fact schema)  
+- Developed DAX measures for business analysis 
+- Built interactive Power BI dashboards (Executive, Product, Customer, Geography)  
 
-**Tools:** Excel • Power Query • Power Pivot • DAX  
+**Tools:** Excel • Power Query • Power Pivot • DAX • Power BI   
 
 👉 https://github.com/Mariam-ZV/data-analytics-portfolio  
 
