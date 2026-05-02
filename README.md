@@ -7,7 +7,7 @@ I specialise in cleaning, structuring, and analysing raw data to uncover meaning
 ---
 
 ## 🛠 Tools
-Excel • SQL • Tableau
+Excel • SQL • Power BI
 
 ---
 
