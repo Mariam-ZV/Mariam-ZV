@@ -39,8 +39,11 @@ Excel • Power Query • Power Pivot • DAX
 
 ## 📊 Portfolio
 
-Main repository:  
-👉 https://github.com/Mariam-ZV/data-analytics-portfolio
+- **Main Portfolio (Excel / Power BI)**  
+  👉 https://github.com/Mariam-ZV/data-analytics-portfolio  
+
+- **Music Streaming SQL Analysis**  
+  👉 https://github.com/Mariam-ZV/music-streaming-sql-analysis
 
 ---
 
