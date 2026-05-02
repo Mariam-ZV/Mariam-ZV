@@ -7,46 +7,62 @@ I specialise in cleaning, structuring, and analysing raw data to uncover meaning
 ---
 
 ## 🛠 Tools
+
 Excel • SQL • Power BI
 
 ---
 
-## 🧠 Focus Areas
-- Data cleaning  
-- Data modelling  
-- Data transformation  
-- Analytical reporting  
+## 🧠 Core Skills
 
----
-
-## 🚀 Current Project
-
-### Retail Sales Data Analysis (Contoso Dataset)
-
-End-to-end data analysis project focused on transforming raw retail data into structured, analysis-ready datasets.
-
-Key work includes:
-- Cleaning and transforming raw datasets using Power Query  
-- Building lookup and fact tables  
-- Creating a structured data model (star schema)  
-- Developing DAX measures for business analysis  
-- Preparing data for reporting and dashboards  
-
-**Tools used:**  
-Excel • Power Query • Power Pivot • DAX  
+- Data Cleaning & Preparation  
+- Data Transformation (Power Query, SQL)  
+- Data Modelling (Star Schema)  
+- Analytical Reporting  
+- Business-Focused Data Analysis  
 
 ---
 
 ## 📊 Portfolio
 
-- **Main Portfolio (Excel / Power BI)**  
-  👉 https://github.com/Mariam-ZV/data-analytics-portfolio  
+### Retail Sales Data Analysis (Contoso Dataset)
+End-to-end data analysis project transforming raw retail data into structured, analysis-ready datasets.
 
-- **Music Streaming SQL Analysis**  
-  👉 https://github.com/Mariam-ZV/music-streaming-sql-analysis
+**Key work:**
+- Cleaned and transformed raw datasets using Power Query  
+- Built lookup and fact tables  
+- Developed a structured data model (star schema)  
+- Created DAX measures for business analysis  
+- Prepared data for reporting and dashboards  
+
+**Tools:** Excel • Power Query • Power Pivot • DAX  
+
+👉 https://github.com/Mariam-ZV/data-analytics-portfolio  
 
 ---
 
-## 🎯 Goal
+### Music Streaming SQL Analysis
+SQL-based analysis of music streaming data focused on extracting insights from raw datasets using structured queries.
 
-Currently building a strong portfolio to transition into a full-time data analyst role.
+**Key work:**
+- Designed and queried relational datasets  
+- Analysed artist, track, and genre performance  
+- Evaluated label efficiency using streams per release  
+- Identified patterns in popularity and playlist exposure  
+
+**Tools:** SQL  
+
+👉 https://github.com/Mariam-ZV/music-streaming-sql-analysis  
+
+---
+
+## 🎯 Current Focus
+
+- Expanding SQL skills with CTEs and window functions  
+- Building interactive dashboards (Power BI)  
+- Strengthening portfolio projects for entry-level data analyst roles  
+
+---
+
+## 🚀 Goal
+
+Transition into a full-time data analyst role, applying strong data cleaning, analysis, and reporting skills to support real-world decision-making.
