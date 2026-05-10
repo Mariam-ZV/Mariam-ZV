@@ -44,12 +44,12 @@ End-to-end data analysis project transforming raw retail data into structured, a
 SQL-based analysis of music streaming data focused on extracting insights from raw datasets using structured queries.
 
 **Key work:**
-- Designed and queried relational datasets  
+- Designed and queried relational datasets using joins, subqueries, and CTEs
 - Analysed artist, track, and genre performance  
 - Evaluated label efficiency using streams per release  
 - Identified patterns in popularity and playlist exposure  
 
-**Tools:** SQL  
+**Tools:** SQL • Subqueries • CTEs 
 
 👉 https://github.com/Mariam-ZV/music-streaming-sql-analysis  
 
