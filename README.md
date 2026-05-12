@@ -49,7 +49,7 @@ SQL-based analysis of music streaming data focused on extracting insights from r
 - Evaluated label efficiency using streams per release  
 - Identified patterns in popularity and playlist exposure  
 
-**Tools:** SQL • Subqueries • CTEs 
+**Tools:** MySQL • Analytical SQL • Subqueries • CTEs • Window Functions
 
 👉 https://github.com/Mariam-ZV/music-streaming-sql-analysis  
 
