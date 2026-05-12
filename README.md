@@ -44,10 +44,11 @@ End-to-end data analysis project transforming raw retail data into structured, a
 SQL-based analysis of music streaming data focused on extracting insights from raw datasets using structured queries.
 
 **Key work:**
-- Designed and queried relational datasets using joins, subqueries, and CTEs
-- Analysed artist, track, and genre performance  
-- Evaluated label efficiency using streams per release  
-- Identified patterns in popularity and playlist exposure  
+- Designed and queried relational datasets using joins, subqueries, CTEs, and window functions  
+- Analysed artist, track, genre, and platform performance using analytical SQL  
+- Built ranking, contribution, and trend-based metrics for business analysis  
+- Evaluated label and release performance using stream and engagement metrics  
+- Identified patterns in popularity, playlist exposure, and streaming behaviour  
 
 **Tools:** MySQL • Analytical SQL • Subqueries • CTEs • Window Functions
 
